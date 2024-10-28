@@ -1,7 +1,7 @@
 # My 3D Portfolio
 <div align="center">
   <h3>Welcome to My Portfolio! :)<br/></h3>
-  <img src="https://github.com/devikaharshey/devika-harshey-portfolio/blob/main/public/assets/github-bg.jpg" width="600px" height="300px">
+  <img src="https://github.com/devikaharshey/devika-harshey-portfolio/blob/main/public/assets/github-bg.jpg" width="550px" height="300px">
 </div>
 <br/>
   <h3>Project Description:</h3>
