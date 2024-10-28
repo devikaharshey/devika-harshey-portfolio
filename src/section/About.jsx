@@ -36,9 +36,12 @@ const About = () => {
                         <img src="/assets/grid2.png" alt="grid-2" className="w-full sm:h-[276px] h-fit object-contain"/>
 
                         <div>
-                            <p className="grid-headtext">Tech Stack</p>
+                            <p className="grid-headtext">Tech Stack & Coursework</p>
                             <p className="grid-subtext">My tech stack includes HTML, CSS, TailwindCSS,
                                 Javascript/Typescript, Bootstrap, React, Next.js, C, C++ & Python.</p>
+                        </div>
+                        <div>
+                            <p className="grid-subtext">My coursework includes Data Structures & Algorithms and Object Oriented Programming.</p>
                         </div>
                     </div>
                 </div>
