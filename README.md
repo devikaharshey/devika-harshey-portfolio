@@ -1,8 +1,21 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# My 3D Portfolio
+<div align="center">
+  <h3>Welcome to My Portfolio! :)<br/></h3>
+  <img src="" width="600px" height="259px">
+</div>
+<br/>
+  <h3>Project Description:</h3>
+  <p>Hi! This is my 3D development portfolio website, built using technologies I’m currently exploring, like Next.js, Three.js, JavaScript, and Tailwind CSS. The site has four main sections: Home, About, Projects, and Contact, where I’ve showcased my projects and skills. It's fully responsive and interactive, designed to work smoothly on any device. I aimed to make the UI both captivating and functional, creating an immersive experience that reflects my journey as a developer.</p>
+<br/>
+  <h3>Tech Stack & Languages:</h3><br/>
+  <h4>Front-end:</h4><br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next_.js-black?style=for-the-badge&logo=next.js">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Three_.js-black?style=for-the-badge&logo=Three.js">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node-js?style=for-the-badge&logo=node.js&logoColor=white&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwindcss">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-%23FF69B4?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=purple">
+  <h4>Language:</h4><br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <h4>IDE:</h4>
+  <img alt="Static Badge" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=yellow">
