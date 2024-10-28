@@ -1,7 +1,7 @@
 # My 3D Portfolio
 <div align="center">
   <h3>Welcome to My Portfolio! :)<br/></h3>
-  <img src="" width="600px" height="259px">
+  <img src="github-bg.jpg" width="600px" height="259px">
 </div>
 <br/>
   <h3>Project Description:</h3>
